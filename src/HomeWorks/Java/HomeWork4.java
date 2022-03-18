@@ -14,7 +14,7 @@ public class HomeWork4 {
         int result1 = lengthOfSentence1 >=5 ? 10 : 15;
         System.out.println("\nTASK-1"+"\nsentence1-> "+sentence1 + "\nThe length of the sentence1 is "+lengthOfSentence1 +fullStop+ "\nThe value of result1 is " +result1+fullStop
         );
-        System.out.println();
+
 
         //Task-2
 
