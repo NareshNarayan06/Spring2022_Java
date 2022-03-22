@@ -29,7 +29,7 @@ public class HomeWork5Corrections {
 
         String[] words = {"healthy","speak", "learning", "king", "Joy", "smile", "learn", "live", "give", "living standard", "life"};
 
-        String letterToCheck ="L";
+        String letterToCheck ="l";
 
         System.out.println("\nThe values which has length greater than 5 and starts with l are ");
         for (int i = 0; i < words.length; i++) {
