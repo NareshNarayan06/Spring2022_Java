@@ -27,7 +27,7 @@ public class HomeWork5Corrections {
 
         //Q6
 
-        String[] words = {"healthy", "speak", "learning", "king", "Joy", "smile", "learn", "live", "give", "living standard", "life"};
+        String[] words = {"healthy","speak", "learning", "king", "Joy", "smile", "learn", "live", "give", "living standard", "life"};
 
         String letterToCheck ="L";
 
