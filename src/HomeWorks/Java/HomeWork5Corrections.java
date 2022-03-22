@@ -15,7 +15,6 @@ public class HomeWork5Corrections {
         //Q4
 
         int num = 15;
-
         if (num % 5 == 0 && num % 3 == 0) {
             System.out.println("\nThe number is divisible by 3 and 5");
         } else if (num % 3 == 0) {
